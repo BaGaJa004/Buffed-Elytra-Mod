@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.bagaja.elytraMod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ElytraMixin",
+    "FireworkRocketMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-26 00:43:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-10-26 00:43:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-10-26 00:43:45 +0200",
+      "minecraft:sparse_jungle": "2024-10-26 00:44:44 +0200",
+      "minecraft:jungle": "2024-10-26 00:44:34 +0200",
+      "minecraft:river": "2024-10-26 00:44:28 +0200",
+      "minecraft:plains": "2024-10-26 00:44:29 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3839
+}
